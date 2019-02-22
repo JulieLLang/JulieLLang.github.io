@@ -18,3 +18,49 @@
     color: #000;
 }
 
+<div class="btn-group">
+    <button type="button" class="btn btn-secondary">Reference</button>
+    <button type="button" class="btn btn-secondary dropdown-toggle dropdown-toggle-split" id="dropdownMenuReference" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-reference="parent">
+      <span class="sr-only">Toggle Dropdown</span>
+    </button>
+    <div class="dropdown-menu" aria-labelledby="dropdownMenuReference">
+      <a class="dropdown-item" href="#">Action</a>
+      <a class="dropdown-item" href="#">Another action</a>
+      <a class="dropdown-item" href="#">Something else here</a>
+      <div class="dropdown-divider"></div>
+      <a class="dropdown-item" href="#">Separated link</a>
+    </div>
+  </div>
+</div>
+
+
+/* ==============================================
+    @MEDIA QUERIES  
+================================================= */
+
+@meida all and (max-width:640px) and (min-width:381px) {
+    .head-main {
+        font-size: 28px;
+    }
+}
+@media all and (max-width:381px) and (min-width:200px) {
+    .head-main {
+        font-size: 24px; 
+    }
+}
+
+@media (min-width: 768) {
+    .container {
+        width: 750px;
+    }
+} 
+@media (min-width: 992px) {
+    .container {
+        width: 970px;
+    }
+}
+@media (min-width: 1200px) {
+    .container {
+        width: 1170px;
+    }
+}

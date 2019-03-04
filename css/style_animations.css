@@ -2,7 +2,7 @@
     @MEDIA QUERIES  
 ================================================= */
 
-@meida all and (max-width:640px) and (min-width:381px) {
+@media all and (max-width:640px) and (min-width:381px) {
     .head-main {
         font-size: 28px;
     }

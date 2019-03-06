@@ -18,9 +18,19 @@
     padding-top: 100px; /* This is the space before the Main title Logo */
     padding-bottom: 50px; /* This is spacer after the Main title Logo */
     color: #000;
-
 }
 
+h1, h2 {
+    font-weight: 900;
+    text-shadow: 2px, 4px, 5px #fff;
+}
+
+#png1 {
+    position:absolute;
+    top:0;
+    left:0;
+    z-index:0;
+}
 /* ==============================================
     @MEDIA QUERIES  
 ================================================= */

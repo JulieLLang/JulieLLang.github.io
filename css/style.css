@@ -1,8 +1,18 @@
-
+.container {
+	opacity: 0.90;
+}
 
 /* ==============================================
     HOME SECTION STYLES
 ================================================= */
+#png1 {
+    position:absolute;
+    top:0;
+    left:0;
+    z-index:0;
+    size: 100px 100px;
+}
+
 #home {
     background: url(../images/design.jpg) no-repeat 50% 50%;
     background-attachment: fixed;

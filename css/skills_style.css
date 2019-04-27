@@ -12,10 +12,9 @@
     width: 100%;
     display: block;
     height: auto;
-    padding-top: 350px; /* This is the space before the Main title Logo */
-    padding-bottom: 50px; /* This is spacer after the Main title Logo */
+    padding-top: 500px; /* This is the space before the Main title Logo */
+    /*padding-bottom: 1.5px; /* This is spacer after the Main title Logo */
     color: #fff;
-
 }
 
 /* ==============================================

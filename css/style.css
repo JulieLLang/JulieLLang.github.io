@@ -6,8 +6,8 @@
     HOME SECTION STYLES making some cahnges to commit
 ================================================= */
 #png1 {
-    position:absolute;
-    top: 20;
+    position: center;
+    top: 0;
     left:0;
     z-index:0;
     size: 100px 100px;

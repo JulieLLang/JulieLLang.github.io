@@ -119,8 +119,8 @@ html {
       max-height: 340px;
       margin: 0 auto;
       content: "";
-      Top: 0;
-      left: 0;
+      /* Top: 0;
+      left: 0; */
       /* position: absolute; */ /* to the top edge of the screen */
       width: 100%;
       position: fixed;

@@ -33,7 +33,7 @@
 
 .menu li:hover {
     color: #f00;
-    background-color: lightslategray;
+    background-color: rgba(100,65,0,.3);
 }
 
 /* ==============================================
